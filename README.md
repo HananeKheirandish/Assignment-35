@@ -1,4 +1,4 @@
-# nemo
+# Nemo
 In this file train knn algorithm from nemo pictcure and can use it for another nemo images. 
 
 ![Shot 0016](https://user-images.githubusercontent.com/76804160/166922465-07267b8f-21b7-4691-b336-a40be7d64440.png)
